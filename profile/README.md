@@ -5,6 +5,7 @@
 * [Munch Vendor Tree](https://github.com/Kenskuyy-Prjkt/android_vendor_xiaomi_munch) (vendorxiaomi/munch)
 * [Munch Firmware](https://github.com/Kenskuyy-Prjkt/android_vendor_xiaomi_munch-firmware) (vendor/xiaomi/munch-firmware)
 * [Munch FusionX](https://github.com/Kenskuyy-Prjkt/fusionX_sm8250) (kernel/xiaomi/munch)
+* [Munch Hardware](https://github.com/Kenskuyy-Prjkt/hardware_xiaomi) (hardware/xiaomi)
 
 ## Additionally
 * [Leica Camera](https://github.com/Kenskuyy-Prjkt/android_vendor_xiaomi_miuicamera) (vendor/xiaomi/miuicamera)
